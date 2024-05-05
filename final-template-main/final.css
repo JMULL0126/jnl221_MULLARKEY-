@@ -1,0 +1,93 @@
+/* This is the CSS page for our final template. */
+
+body {
+    background-color: #FFF3E0; 
+}
+body {
+    margin: 1in; 
+
+p {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+}
+
+.footer p {
+    background-color: steelblue;
+    text-align: center;
+    font-size: 20px;
+    margin-bottom: 0;
+}
+
+.header {
+    height: auto;
+    font-weight: bold;
+    font-size: 40px;
+    text-align: center;
+    font-family: 'Times New Roman', serif;
+    background-color: steelblue;
+    color: white; 
+}
+
+.reporter {
+    font-size: 18px; 
+    font-family: 'Georgia', serif; 
+    color: #FFF; 
+    background-color: steelblue;
+    margin-top: 10px; 
+}
+
+
+h4 {
+    Font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-size: 21px;
+    font-style: normal;
+    color: darkslategray; 
+}
+
+h3 {
+    font-family: "Roboto Condensed", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: steelblue;
+
+}
+
+
+
+h5 {
+    font-family: "times new roman", sans-serif;
+    font-optical-sizing: auto;
+    font-weight: 400;
+    font-style: normal;
+    color: white;
+
+}
+ 
+
+img {
+    display: block;
+    margin: auto; 
+    transition: transform 0.3s ease-in-out;
+}
+
+img:hover {
+    transform: scale(1.1);  
+}
+
+
+    }
+    img {
+        float: none;
+        margin-right: 5%;
+        margin-left: 5%;
+    }
+    iframe {
+        min-width: 90%;
+        margin-right: 10px;
+    }
+}
